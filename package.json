@@ -1,4 +1,5 @@
 {
+  "name": "@seanxe/create-react-app",
   "private": true,
   "workspaces": [
     "packages/*"
